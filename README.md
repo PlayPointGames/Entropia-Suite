@@ -23,6 +23,7 @@ Paid hunting, possibilities:
 - 0.1pec for running the software for an hour (max 10 hours a day = 1pec)
 - Percentage of decay, up to 1pec/day (would be potentially faster to get 1pec than waiting it out?)
 - Global based?
+- Market the product for LA owners making it possible to automate the payment of global bonuses
 
 How to control for the real use of the tool (vs. sending fake data to the server)?
 - Cross reference sent global data
