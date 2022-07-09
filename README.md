@@ -26,3 +26,4 @@ Paid hunting, possibilities:
 How to control for the real use of the tool (vs. sending fake data to the server)?
 - Cross reference sent global data
 - Still can't be sure if the user is actually using the tool, only that it's running and he is online in Entropia 
+- Smart user can still send fake dmg/loot messages to the server while providing accurate global data in real time
