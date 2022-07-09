@@ -10,3 +10,8 @@ The complete set of tools will consist of the following modules:
 - Mining
 - Crafting
 - Trading
+
+# Hunting module
+
+## MVP specifications
+## Ideas
